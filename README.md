@@ -1,7 +1,7 @@
 # django_newspaper_app
 Chapters 6 - 15 of the Django for Beginners book.
 
-# This app is deployed at http://164.152.57.86:9112/ where you can see it functional.
+### This app is deployed at http://164.152.57.86:9112/ where you can see it functional.
 
 # Newspaper App
 
